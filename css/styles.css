@@ -1,0 +1,60 @@
+body {
+  background-color: #212121;
+}
+
+a {
+  color: #14ffec;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #0d7377;
+}
+
+.title-section {
+  text-align: center;
+  margin-top: 1.5rem;
+  color: #14ffec;
+}
+
+.get-started {
+  text-align: center;
+  margin-top: 25rem;
+}
+
+.btn {
+  background-color: #14ffec;
+  color: #212121;
+}
+
+.get-started-btn {
+  width: 10%;
+}
+
+.back-next {
+  text-align: center;
+  margin: 1.5em auto;
+  display: inline-flex;
+}
+
+.btn-back {
+  margin-right: 5em;
+}
+
+.btn-next {
+  margin-left: 5em;
+}
+
+.btn:hover {
+  background-color: #0d7377;
+}
+
+.card-section {
+  text-align: center;
+  margin-top: 2.5em;
+}
+
+.card-body {
+  background-color: #323232;
+  color: #14ffec;
+}
