@@ -13,13 +13,13 @@ a:hover {
 
 .title-section {
   text-align: center;
-  margin-top: 1.5rem;
+  margin-top: 1.5em;
   color: #14ffec;
 }
 
 .get-started {
   text-align: center;
-  margin-top: 25rem;
+  margin-top: 25em;
 }
 
 .btn {
@@ -47,6 +47,10 @@ a:hover {
 
 .btn:hover {
   background-color: #0d7377;
+}
+
+.card {
+  border: 1px solid #4d4c4c;
 }
 
 .card-section {
