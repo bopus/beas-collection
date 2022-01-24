@@ -45,6 +45,10 @@ a:hover {
   margin-left: 5em;
 }
 
+.btn-back-only {
+  margin-right: 14em;
+}
+
 .btn:hover {
   background-color: #0d7377;
 }
